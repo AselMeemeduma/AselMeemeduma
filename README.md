@@ -28,7 +28,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="70" height="70"/>
         </a>
  <a href="https://www.raspberrypi.org/">
-          <img src="https://www.raspberrypi.org/pagekit-assets/media/images/4913a547895720ff30c1.svg" alt="swift programming language" width="70" height="70"/>
+          <img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="swift programming language" width="70" height="70"/>
         </a>
 <a href="https://www.docker.com/">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="70" height="70"/>
