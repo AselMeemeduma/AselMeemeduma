@@ -42,6 +42,10 @@
 <a href="https://en.wikipedia.org/wiki/Linux">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/>
         </a>
+        </a>
+<a href="https://tomcat.apache.org/">
+          <img src="https://tomcat.apache.org/res/images/tomcat.png" alt="linux" width="70" height="70"/>
+        </a>
         
 [twitter]: https://twitter.com/AselMeemeduma
 [facebook]: https://www.facebook.com/azel.meemeduma
