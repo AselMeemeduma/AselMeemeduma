@@ -15,7 +15,7 @@
 [<img align="left" alt="asel | Medium" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" />][medium]
 </br>
 </br>
-### Tech Stack
+### Preferred Tech Stack
 <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="70" height="70"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="SpringBoot" width="70" height="70"/></a>
 <a href="https://spring.io/">
