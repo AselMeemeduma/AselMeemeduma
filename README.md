@@ -16,19 +16,20 @@
 </br>
 </br>
 ### Preferred Tech Stack
-<a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="70" height="70"/></a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="SpringBoot" width="70" height="70"/></a>
+<a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="70" height="70"/>
+          </a>
+<a href="https://www.python.org//"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="70" height="70"/>
+        </a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="SpringBoot" width="70" height="70"/>
+          </a>
 <a href="https://spring.io/">
           <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" width="70" height="70"/>
         </a>
 <a href="https://www.mysql.com/">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL SQL" width="70" height="70"/>
           </a>
-<a href="https://www.python.org//">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="70" height="70"/>
-        </a>
  <a href="https://www.raspberrypi.org/">
-          <img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="swift programming language" width="70" height="70"/>
+          <img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="raspberrypi programming language" width="70" height="70"/>
         </a>
 <a href="https://www.docker.com/">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="70" height="70"/>
@@ -41,7 +42,6 @@
         </a>
 <a href="https://en.wikipedia.org/wiki/Linux">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/>
-        </a>
         </a>
 <a href="https://tomcat.apache.org/">
           <img src="https://tomcat.apache.org/res/images/tomcat.png" alt="linux" width="70" height="70"/>
