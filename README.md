@@ -9,7 +9,7 @@
 - 📫 How to reach me: aselkamitha@gmail.com
 
 ### Find me on:
-
+<br/>
 <a href="https://twitter.com/skaveesh">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/twitter.png">
@@ -42,7 +42,7 @@
   </picture>
 </a>
 <br/>
-### Preferred Tech Stack :
+# Preferred Tech Stack :
 
 <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="70" height="70"/>
           </a>
