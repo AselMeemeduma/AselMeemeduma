@@ -47,7 +47,6 @@
 </a>
 
 </br>
-</br>
 ### Preferred Tech Stack
 <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="70" height="70"/>
           </a>
