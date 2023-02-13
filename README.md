@@ -34,7 +34,7 @@
           <img src="https://github.com/AselMeemeduma/AselMeemeduma/blob/main/resource/icon/stack/linux.svg" alt="linux" width="70" height="70"/>
         </a>
 <a href="https://tomcat.apache.org/">
-          <img src="https://github.com/AselMeemeduma/AselMeemeduma/blob/main/resource/icon/stack/tomcat.png" alt="linux" width="70" height="70"/>
+          <img src="https://github.com/AselMeemeduma/AselMeemeduma/blob/main/resource/icon/stack/tomcat.png" alt="tomcat" width="70" height="70"/>
         </a>
 
 
