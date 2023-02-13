@@ -13,11 +13,8 @@
           </a>
 <a href="https://www.python.org//"><img src="https://github.com/AselMeemeduma/AselMeemeduma/blob/main/resource/icon/stack/python.svg" alt="python" width="70" height="70"/>
         </a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://github.com/AselMeemeduma/AselMeemeduma/blob/main/resource/icon/stack/spring-boot.png" alt="SpringBoot" width="100" height="70"/>
+<a href="https://spring.io/"><img src="https://github.com/AselMeemeduma/AselMeemeduma/blob/main/resource/icon/stack/spring.svg" alt="SpringBoot" width="70" height="70"/>
           </a>
-<a href="https://spring.io/">
-          <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" width="70" height="70"/>
-        </a>
 <a href="https://www.mysql.com/">
             <img src="https://github.com/AselMeemeduma/AselMeemeduma/blob/main/resource/icon/stack/mysql.svg" alt="MySQL SQL" width="70" height="70"/>
           </a>
