@@ -48,6 +48,8 @@
 
 </br>
 ### Preferred Tech Stack
+
+<br/>
 <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="70" height="70"/>
           </a>
 <a href="https://www.python.org//"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="70" height="70"/>
