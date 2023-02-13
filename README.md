@@ -9,10 +9,6 @@
 - 📫 How to reach me: aselkamitha@gmail.com
 
 ### Find me on:
-[<img align="left" alt="asel | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="asel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="asel | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="asel | Medium" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" />][medium]
 
 <a href="https://twitter.com/skaveesh">
   <picture>
@@ -45,8 +41,6 @@
     <img width="24" alt="skaveesh | Medium" src="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/medium.png">
   </picture>
 </a>
-
-</br>
 ### Preferred Tech Stack
 <br/>
 <br/>
