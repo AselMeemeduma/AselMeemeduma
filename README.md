@@ -53,7 +53,15 @@
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/AselMeemeduma/AselMeemeduma/blob/main/resource/icon/dark/facebook.png">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AselMeemeduma/AselMeemeduma/blob/main/resource/icon/light/facebook.png">
-    <img width="24" style="margin-right: 10px" alt="AselMeemeduma | Twitter" src="https://github.com/AselMeemeduma/AselMeemeduma/blob/main/resource/icon/dark/twitter.png">
+    <img width="24" style="margin-right: 10px" alt="AselMeemeduma | Twitter" src="https://github.com/AselMeemeduma/AselMeemeduma/blob/main/resource/icon/dark/facebook.png">
+  </picture>
+</a>
+<span>&nbsp;</span>
+<a href="https://www.instagram.com/asel_meemeduma/?igshid=NTdlMDg3MTY%3D">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AselMeemeduma/AselMeemeduma/blob/main/resource/icon/dark/instagram.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AselMeemeduma/AselMeemeduma/blob/main/resource/icon/light/instagram.png">
+    <img width="24" style="margin-right: 10px" alt="AselMeemeduma | Twitter" src="https://github.com/AselMeemeduma/AselMeemeduma/blob/main/resource/icon/dark/instagram.png">
   </picture>
 </a>
 <span>&nbsp;</span>
