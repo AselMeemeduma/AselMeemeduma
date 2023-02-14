@@ -5,6 +5,8 @@
 |[![AselMeemeduma's github stats](https://github-readme-stats.vercel.app/api?username=AselMeemeduma&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AselMeemeduma&hide=Rich%20Text%20Format,html,css,python,javascript&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=AselMeemeduma)||
 
+<img align="right" alt="GIF" src="https://github.com/AselMeemeduma/AselMeemeduma/blob/main/resource/images/code.gif?raw=true" width="450" height="225" />
+
 - 🔭 I’m currently working on any project that I find interesting.
 - 🌱 I’m currently learning Spring Boot, Java, Kafka, React, ...
 - 👯 I’m looking to collaborate on any interesting ideas.
