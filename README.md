@@ -1,4 +1,4 @@
-# Hi there 👋,
+# Hi👋, I'm Asel
 <h3 align="center">Making the world a better place with software.</h3>
 
 |GITHUB STATS|MOST USED LANGUAGES|
