@@ -1,5 +1,5 @@
 # Hi👋, I'm Asel
-<h3 align="center">Making the world a better place with software.</h3>
+<h3 align="center">A passionate fullstack developer.</h3>
 
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
