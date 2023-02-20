@@ -13,6 +13,7 @@
 - 👯 I’m looking to collaborate on any interesting ideas.
 - 👯 I’m looking to collaborate ...
 - 📫 How to reach me: aselkamitha@gmail.com
+- 📝 [Checkout my Leetcode profile](https://leetcode.com/aselkamitha/)
 - 😄 Pronouns: he/him
 
 ### Preferred Tech Stack :
