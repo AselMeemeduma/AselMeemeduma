@@ -1,4 +1,4 @@
-# Hi👋, I'm Asel
+# Hi👋, I'm Asel Meemeduma
 <h3 align="center">A passionate fullstack developer.</h3>
 
 |GITHUB STATS|MOST USED LANGUAGES|
